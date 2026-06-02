@@ -1,0 +1,4 @@
+AutomationTest\vedlogic\runner\RunnerTest.class
+AutomationTest\vedlogic\stepdefinitions\UISteps.class
+AutomationTest\vedlogic\hooks\Hook.class
+AutomationTest\vedlogic\stepdefinitions\APISteps.class
