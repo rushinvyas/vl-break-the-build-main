@@ -1,9 +1,0 @@
-AutomationTest\vedlogic\pages\ProductsPage.class
-AutomationTest\vedlogic\base\DriverManager.class
-AutomationTest\vedlogic\config\ConfigReader.class
-AutomationTest\vedlogic\utils\WaitUtils.class
-AutomationTest\vedlogic\api\ReqResClient.class
-AutomationTest\vedlogic\pages\CheckoutPage.class
-AutomationTest\vedlogic\pages\LoginPage.class
-AutomationTest\vedlogic\BrowserSetup.class
-AutomationTest\vedlogic\pages\CartPage.class
