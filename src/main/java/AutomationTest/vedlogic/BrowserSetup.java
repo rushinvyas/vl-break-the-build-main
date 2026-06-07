@@ -30,6 +30,7 @@ public class BrowserSetup {
         driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(ConfigReader.getInt("implicitWait")));
         driver.manage().window().maximize();
         DriverManager.setDriver(driver);
-        return driver;
+        return DriverManager.getDriver(); // Implement for Threading
+        //return driver;
     }
 }
